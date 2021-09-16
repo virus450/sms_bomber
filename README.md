@@ -23,7 +23,8 @@ How to install the tool:
 -----------------------------
 8: python3 Sms_Bomber.py
 -----------------------------
-Note that it only runs with Python 3
+9: python Sms_Bomber.py
+Note that it only runs with Python3 or python 
 -----------------------------
 In this step, enter the target number as an example: 0994*******
 Then wait for the tool to do its job
