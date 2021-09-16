@@ -17,9 +17,11 @@ How to install the tool:
 -----------------------------
 5: pip install requests
 -----------------------------
-5: cd sms_bomber
+6: git clone https://github.com/virus450/sms_bomber
 -----------------------------
-6: python3 Sms_Bomber.py
+7: cd sms_bomber
+-----------------------------
+8: python3 Sms_Bomber.py
 -----------------------------
 Note that it only runs with Python 3
 -----------------------------
