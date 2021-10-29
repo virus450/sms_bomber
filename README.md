@@ -21,9 +21,9 @@ How to install the tool:
 -----------------------------
 7: cd sms_bomber
 -----------------------------
-8: python3 Sms_Bomber.py
+8: python3 sms_virus.py
 -----------------------------
-9: python Sms_Bomber.py
+9: python sms_virus.py
 Note that it only runs with Python3 or python 
 -----------------------------
 In this step, enter the target number as an example: 0994*******
